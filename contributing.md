@@ -3,7 +3,7 @@
 Thank you for your interest in contributing to RailPulse! We welcome contributions of all kinds — code, documentation, tests, bug reports, feature requests, and improvements to these guidelines.
 
 ## Code of conduct
-Please follow the project's Code of Conduct (if present). Be respectful, constructive, and patient when interacting with maintainers and other contributors.
+Please follow the project's Code of Conduct. Be respectful, constructive, and patient when interacting with maintainers and other contributors.
 
 ## How to file an issue
 - Search existing issues and pull requests to check whether the problem or idea already exists.
@@ -49,4 +49,3 @@ If you're unsure where to start, open an issue labelled "help wanted" or "good f
 
 Thank you for helping make RailPulse better!
 
-(Generated and added by omkhalane's contributor assistant.)
